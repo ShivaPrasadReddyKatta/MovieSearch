@@ -5,6 +5,8 @@ Now, I converted the text into lower case and removed stop words from it. Also, 
 When the search query is entered it is processed same like the text column by converting it into lowercase, removing stopwords etc., and
 also the cosine similarity score is calculated and the results are ranked accordingly.
 
+You can find my project brochure, project video, and project report under the posts section in my webiste.(https://techno-astrophile.netlify.com)
+
 
 REFERENCES
 
