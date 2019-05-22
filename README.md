@@ -55,11 +55,11 @@ The following function will take a query as input and return the top 3 results u
         return df[['original_title', 'overview']].iloc[sorted_indexes[0][-3:]]
     
     
-#Project Report and Video    
+# Project Report and Video    
 You can find my project brochure, project video, and project report under the posts section in my webiste.(https://techno-astrophile.netlify.com)
 
 
-#REFERENCES
+# REFERENCES
 
 For converting the text into lower case I referred to Chaim Gluck code from his post on Medium: https://medium.com/@chaimgluck1/have-messy-text-data-clean-it-with-simple-lambda-functions-645918fcc2fc
 
@@ -73,7 +73,7 @@ You can find my project brochure, project video, and project report under the po
 
 For cosine similarity I referred to Emma Giraldi code: https://github.com/emmagrimaldi/Content_based_movie_recommender/blob/master/.ipynb_checkpoints/EG_project5-checkpoint.ipynb
 
-#How to install and use the application
+# How to install and use the application
 Download the APK file and install it on your Android mobile. The App is named as 'movieREC'. Upon opening the app you can find two options 'Login' and 'Guest User', click on guest user and continue. 
 
 
