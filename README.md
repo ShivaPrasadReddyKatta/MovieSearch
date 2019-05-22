@@ -73,6 +73,8 @@ You can find my project brochure, project video, and project report under the po
 
 For cosine similarity I referred to Emma Giraldi code: https://github.com/emmagrimaldi/Content_based_movie_recommender/blob/master/.ipynb_checkpoints/EG_project5-checkpoint.ipynb
 
+ https://github.com/BhaskarTrivedi/QuerySearch_Recommentation_Classification
+
 # How to install and use the application
 Download the APK file and install it on your Android mobile. The App is named as 'movieREC'. Upon opening the app you can find two options 'Login' and 'Guest User', click on guest user and continue. 
 
